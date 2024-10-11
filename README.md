@@ -1,0 +1,1 @@
+We will create the model where we predict the weather parameters like Temprature,pressure using LSTMs .It basically a time series analysis which calculate the temprature and pressure on a hourly basics.In this first notebook we calculate the temprature by using the previous hours temprature and other parameter and temp and press in second notebook
